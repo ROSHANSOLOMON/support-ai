@@ -1,0 +1,82 @@
+[
+  {
+    "source": "analytics_reporting.txt",
+    "text": "Enable analytics for anonymized usage metrics."
+  },
+  {
+    "source": "api_rate_limit.txt",
+    "text": "API rate limit is 600 req/min. Use exponential backoff."
+  },
+  {
+    "source": "app_crash_start.txt",
+    "text": "If the app crashes on start, try clearing cache and reinstalling."
+  },
+  {
+    "source": "backup_restore.txt",
+    "text": "Restore backup via Settings -> Backup -> Restore."
+  },
+  {
+    "source": "browser_support.txt",
+    "text": "Supported browsers: Chrome, Firefox, Safari, Edge."
+  },
+  {
+    "source": "contact_support.txt",
+    "text": "Contact support@example.com or open ticket in-app."
+  },
+  {
+    "source": "data_export.txt",
+    "text": "Export data from Settings -> Data & Privacy -> Export Data."
+  },
+  {
+    "source": "email_notifications.txt",
+    "text": "Manage email notifications from Settings -> Notifications."
+  },
+  {
+    "source": "error_503.txt",
+    "text": "503 happens during maintenance. Retry after a few minutes."
+  },
+  {
+    "source": "feature_flag.txt",
+    "text": "Feature flags roll out gradually across accounts."
+  },
+  {
+    "source": "install_mac.txt",
+    "text": "Download .dmg, drag to Applications, then open."
+  },
+  {
+    "source": "install_windows.txt",
+    "text": "Download installer.exe and allow in Windows Defender if blocked."
+  },
+  {
+    "source": "integration_docs.txt",
+    "text": "API integration uses Authorization: Bearer <API_KEY>."
+  },
+  {
+    "source": "login_error.txt",
+    "text": "If login returns error 401, verify username/password. If using SSO, ensure your token is valid."
+  },
+  {
+    "source": "password_policy.txt",
+    "text": "Passwords require 8 chars with letters and numbers."
+  },
+  {
+    "source": "payment_failed.txt",
+    "text": "Payment failed errors occur due to expired card or insufficient funds."
+  },
+  {
+    "source": "privacy_policy.txt",
+    "text": "We collect minimal data required for functionality."
+  },
+  {
+    "source": "reset_password.txt",
+    "text": "To reset your password, go to Settings -> Account -> Reset Password. A reset link is sent to your registered email."
+  },
+  {
+    "source": "subscription_cancel.txt",
+    "text": "Cancel subscription in Billing -> Cancel Subscription."
+  },
+  {
+    "source": "two_factor.txt",
+    "text": "Two-factor sends a 6-digit code. If not received, request a new one."
+  }
+]

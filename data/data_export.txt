@@ -1,0 +1,1 @@
+Export data from Settings -> Data & Privacy -> Export Data.

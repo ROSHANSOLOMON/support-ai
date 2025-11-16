@@ -1,0 +1,1 @@
+API rate limit is 600 req/min. Use exponential backoff.

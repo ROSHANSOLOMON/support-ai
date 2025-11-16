@@ -1,0 +1,1 @@
+Download installer.exe and allow in Windows Defender if blocked.

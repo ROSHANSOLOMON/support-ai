@@ -1,0 +1,1 @@
+API integration uses Authorization: Bearer <API_KEY>.

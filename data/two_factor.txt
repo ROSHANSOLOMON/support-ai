@@ -1,0 +1,1 @@
+Two-factor sends a 6-digit code. If not received, request a new one.

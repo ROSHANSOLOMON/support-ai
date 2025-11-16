@@ -1,0 +1,1 @@
+Restore backup via Settings -> Backup -> Restore.

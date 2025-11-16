@@ -1,0 +1,1 @@
+If the app crashes on start, try clearing cache and reinstalling.

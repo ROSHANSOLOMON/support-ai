@@ -1,0 +1,1 @@
+Payment failed errors occur due to expired card or insufficient funds.

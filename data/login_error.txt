@@ -1,0 +1,1 @@
+If login returns error 401, verify username/password. If using SSO, ensure your token is valid.
